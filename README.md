@@ -1,6 +1,4 @@
-﻿# 💻 Code Camp 2024
-
-Página web estática desenvolvida para divulgação e inscrição no evento fictício **Code Camp 2024** (*"Learn. Build. Innovate."*).
+# 💻 Code Camp 2024
 
 ## 🚀 Tecnologias e Estrutura
 
